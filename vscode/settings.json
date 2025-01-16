@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.organizeImports": "always"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.endOfLine": "lf",
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.format.semicolons": "insert",
+  "javascript.format.semicolons": "insert",
+  "scss.lint.unknownAtRules": "ignore",
+  "svg.preview.mode": "svg",
+  "css.customData": [".vscode/tailwind.json"],
+  "workbench.activityBar.location": "hidden"
+}
